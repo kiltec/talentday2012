@@ -1,2 +1,1 @@
-talenrtday2012
-==============
+https://github.com/kiltec/talentday2012/wiki/Links
